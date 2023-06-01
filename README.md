@@ -13,3 +13,6 @@ aca se dejara el manual en formato doc tambien conocido como word
 
 # archivo ejecutable programa .exe
 
+
+
+
