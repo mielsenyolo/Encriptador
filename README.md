@@ -4,3 +4,5 @@ Este es un proyecto de muchos para ayudar a la seguridad informática es un Encr
 
 
 # manual de uso 
+
+aca se dejara el manual en formato doc tambien conocido como word 
