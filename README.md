@@ -14,7 +14,9 @@ aca se dejara el manual en formato doc tambien conocido como word
 # archivo ejecutable programa .exe
 
 
-aca pueden descargar el programa https://github.com/mielsenyolo/Encriptador/releases/tag/Encriptado_mielsenyolo
+aca pueden descargar el programa 
+
+https://github.com/mielsenyolo/Encriptador/releases/tag/Encriptado_mielsenyolo
 
 
 
